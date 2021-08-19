@@ -5,6 +5,15 @@
 
 #pragma semicolon 1
 
+public Plugin myinfo =
+{
+	name = "NadeTrails Color Menu for VIPs",
+	author = "Nokta",
+	description = "",
+	version = "1.0",
+	url = "https://github.com/epsilonr"
+};
+
 Handle g_hClientCookie = INVALID_HANDLE;
 
 int g_Renk[MAXPLAYERS + 1] = 1;
