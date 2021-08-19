@@ -8,7 +8,7 @@
 public Plugin myinfo =
 {
 	name = "NadeTrails Color Menu for VIPs",
-	author = "Nokta",
+	author = "epsilonr",
 	description = "",
 	version = "1.0",
 	url = "https://github.com/epsilonr"
